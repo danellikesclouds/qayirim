@@ -1,2 +1,2 @@
 # qayirim
-php, html project
+php, html, MySQL project. there are 2 types of access: charity organizations and volunteers/donators. Charity organizations have access to all the activity that goes on a website (donations made, volunteering applications that were submitted and so on) and also publish announcements about volunteering events or fundraisements, whereas volunteers/donators can either log in ot register then apply for a volunteering event (announcement) or make a donation for a certain announcement. Personal data of every user, information from every form is stored in mysql database.
