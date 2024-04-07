@@ -32,7 +32,7 @@ body {
 <body>
 
 <div class="header">
-    <img src="https://lh3.googleusercontent.com/rag88C25KUnvW8tbJkXIaKM5xeys3E8e1TP-IhpX-dlg_5TcxnU15DIGxEkkhKCvySfz3icAq3pKAbFF-T8n9Y4=w16383" alt="Logo">
+    <img src="qayirim.png" alt="Logo">
 </div>
 
 <div class="gap"></div>
